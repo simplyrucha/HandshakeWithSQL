@@ -1,2 +1,2 @@
 # HandshakeWithSQL
-Project(s) related to working with SQL supported database(s)
+Project combining Python and SQL skills together to form a coherent business solution
